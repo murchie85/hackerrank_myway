@@ -1,5 +1,6 @@
 """
-https://www.hackerrank.com/challenges/whats-your-name/problem
+https://www.hackerrank.com/challenges/whats-your-name/problem?h_r=next-challenge&h_v=zen
+
 
 Sample Input 0
 
@@ -15,6 +16,7 @@ The input read by the program is stored as a string data type. A string is a col
 """
 
 
+
 #
 # Complete the 'print_full_name' function below.
 #
@@ -25,6 +27,10 @@ The input read by the program is stored as a string data type. A string is a col
 #
 
 def print_full_name(first, last):
-    # Write your code here
+	string = "Hello {} {}! You just delved into python.".format(first,last)
+	print(string)
 
 if __name__ == '__main__':
+    first_name = input()
+    last_name = input()
+    print_full_name(first_name, last_name)
