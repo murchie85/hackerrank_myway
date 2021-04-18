@@ -1,6 +1,6 @@
 # murchie85's solutions to Hackerrank prolblem sets 
 
-![](https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/<856771_668224053197841_1943699009_o class="png"></856771_668224053197841_1943699009_o>)
+![](https://miro.medium.com/max/672/1*l2lakZUh9Tkp5yxwud-2tQ.png)
 
 
 A lot of the problems will have the answers in the comments sections rated up, but these problem solutions are all my own approach without looking at the answers....since the goal is to learn and improve afterall. 
